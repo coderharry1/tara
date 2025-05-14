@@ -66,6 +66,13 @@ Australia’s tax landscape is complex. Tara simplifies compliance for over 10 m
 
 ---
 
+## 🌐 Tara Screenshots
+<img width="1178" alt="Screenshot 2025-05-14 at 1 22 21 PM" src="https://github.com/user-attachments/assets/1a380b87-18c9-4ef1-b8da-5fe5a18eee8b" />
+<img width="779" alt="Screenshot 2025-05-14 at 1 24 02 PM" src="https://github.com/user-attachments/assets/abf7a36f-86ab-4cc0-92ad-2edea5d8d0ad" />
+<img width="728" alt="Screenshot 2025-05-14 at 1 24 34 PM" src="https://github.com/user-attachments/assets/4e3e5af4-72e8-402b-85f5-76fbe8cc67a5" />
+
+---
+
 ## 📬 Contact
 
 Built by **S. Harish Krishnan**  
