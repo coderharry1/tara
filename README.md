@@ -56,7 +56,7 @@
 ## 🌐 Try HAMT Now
 
 🟢 **Live Demo** → [Launch Tara on Relevance AI](https://app.relevanceai.com/agents/f1db6c/8e7e2a99e6d8-4719-8693-0782226ed9cb/4402d1ec-3604-4279-babd-d5ff42cd04d8/edit/instructions)  
-Tara is hosted on [**Relevance AI**](https://relevanceai.com), a platform purpose-built for building agentic workflows at scale.
+HAMT is hosted on [**Relevance AI**](https://relevanceai.com), a platform purpose-built for building agentic workflows at scale.
 
 ---
 
